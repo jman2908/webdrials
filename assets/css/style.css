@@ -1,0 +1,73 @@
+body {
+	background: lightskyblue;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 69px;
+	margin-bottom: 15px;
+}
+
+small {
+	font-weight: normal;
+	font-size: 40px;
+}
+
+.wrapper {
+	margin: 60px 0 60px 60px;
+}
+
+.animal-button {
+	font-size: 14px;
+    background: blue;
+    color: white;
+	border: none;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+
+
+#add-animal-button {
+	font-size: 14px;
+	color:black;
+	background: lightgreen;
+	border: none;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+
+#new-animal-input {
+	padding: 10px 15px;
+	font-size: 14px;
+	border: none;
+	border-radius: 10px;
+}
+
+#button-group {
+	margin-right: 20px;
+	margin-bottom: 15px;
+}
+
+.results-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+
+.result-container {
+	margin: 30px 30px 0 0;
+}
+
+
+p {
+	font-size: 13px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 0 0 6px 4px;
+}
